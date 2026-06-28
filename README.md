@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:FF0080,50:7928CA,100:007CF0&text=Iyyappan%20S&fontSize=65&fontColor=FFFFFF&animation=twinkling&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:FF0080,50:7928CA,100:00D4FF&text=Iyyappan%20S&fontSize=65&fontColor=FFFFFF&animation=twinkling&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer&descSize=19&descAlignY=72" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+Building+Full+Stack+Projects;🤖+Exploring+AI+%26+Machine+Learning;💻+Java+%7C+Python+%7C+JavaScript+%7C+Node.js;🔥+Code+•+Learn+•+Build+•+Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Turning+Ideas+Into+Intelligent+Software;Building+Full+Stack+Web+Applications;Exploring+AI+%26+Machine+Learning;Java+%7C+Python+%7C+JavaScript+%7C+Node.js;Learn+%E2%9E%9C+Build+%E2%9E%9C+Improve+%E2%9E%9C+Repeat" />
 
 <br>
 
@@ -35,17 +35,20 @@
 <tr>
 <td width="60%">
 
-🎓 Final Year **B.Tech Artificial Intelligence & Data Science** Student  
+I am a **Final Year B.Tech Artificial Intelligence & Data Science student** who enjoys transforming ideas into practical software solutions.
 
-💻 Passionate **Full Stack Developer**  
+I love designing clean user interfaces, building backend systems, and exploring how **Artificial Intelligence** can solve real-world problems.
 
-🚀 I love building **real-world web applications** with clean UI and useful features.  
+Currently, I am focused on becoming a skilled **Software Engineer** by improving my skills in **Full Stack Development, Java, DSA, System Design, and AI technologies**.
 
-🌱 Currently learning **React.js, Advanced Node.js, MongoDB, Machine Learning, and DSA**  
+### 🚀 Quick Highlights
 
-🎯 Goal: To become a skilled **Software Engineer / Full Stack Developer**  
-
-⚡ Motto: **Dream big. Code daily. Build better.**
+- 🔭 Building **Full Stack Web Applications**
+- 🤖 Exploring **AI & Machine Learning**
+- ☕ Practicing **Java & Data Structures**
+- 🌐 Interested in **MERN Stack Development**
+- 🎯 Preparing for **Software Engineering Placements**
+- ⚡ Motto: **Code. Learn. Build. Repeat.**
 
 </td>
 <td width="40%">
@@ -58,30 +61,35 @@
 
 ---
 
-## 🧰 Colourful Tech Stack
+## 🧰 Tech Toolbox
 
 <div align="center">
 
-### 💻 Languages  
+### 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 
-### 🎨 Frontend  
+### 🎨 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-### ⚙️ Backend  
+### ⚙️ Backend Development
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 🗄️ Database  
+### 🗄️ Database
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-### 🛠 Tools  
+### 🛠 Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify" />
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
 <table>
 <tr>
@@ -90,10 +98,10 @@
 ### 🟣 Backend Developer Intern  
 **Smart Internz — Online**
 
-- Developed backend modules using **Java, SQL, REST APIs**
-- Implemented database operations
-- Improved backend performance
-- Debugged and optimized server-side logic
+- Developed backend modules using **Java, SQL, and REST APIs**
+- Implemented database operations and server-side logic
+- Improved backend performance through debugging and optimization
+- Strengthened understanding of backend application workflow
 
 </td>
 <td width="50%">
@@ -101,10 +109,10 @@
 ### 🔵 Full Stack Developer Intern  
 **UK InfoTech — Pudukkottai**
 
-- Designed responsive web interfaces
-- Built interactive web pages
-- Connected frontend with backend services
-- Improved UI responsiveness
+- Designed responsive web interfaces using **HTML, CSS, and JavaScript**
+- Built interactive web pages with modern UI practices
+- Connected frontend components with backend services
+- Improved website usability and responsiveness across devices
 
 </td>
 </tr>
@@ -118,9 +126,11 @@
 <tr>
 <td width="33%">
 
-### 🏥 MedSchedule Pro
+<h3 align="center">🏥 MedSchedule Pro</h3>
 
-Doctor Appointment Booking System.
+<p align="center">
+Doctor Appointment Booking Platform
+</p>
 
 <img src="https://img.shields.io/badge/HTML-FF5722?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white" />
@@ -128,47 +138,66 @@ Doctor Appointment Booking System.
 <img src="https://img.shields.io/badge/Node.js-00C853?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4CAF50?style=flat-square&logo=mongodb&logoColor=white" />
 
-**Features**
-- Authentication
+<br><br>
+
+A full stack healthcare web application that helps users discover doctors and book appointments easily.
+
+**Key Features**
+- Secure authentication
+- Doctor discovery
 - Appointment booking
 - Admin dashboard
-- Chatbot
+- Chatbot assistance
 - Dark mode
 
 </td>
 <td width="33%">
 
-### 🔐 SLE Trifolder Encryption
+<h3 align="center">🔐 SLE Trifolder Encryption</h3>
 
-Secure File Encryption System.
+<p align="center">
+Secure File Encryption System
+</p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Security-FF1744?style=flat-square" />
 <img src="https://img.shields.io/badge/Encryption-7C4DFF?style=flat-square" />
 
-**Features**
-- Multi-layer encryption
+<br><br>
+
+A multi-layer file encryption and decryption system designed to improve data confidentiality and secure file sharing.
+
+**Key Features**
 - Password protection
-- Secure sharing
+- Multi-layer encryption
+- Secure file sharing
 - Access control
+- Data confidentiality
 
 </td>
 <td width="33%">
 
-### 🌐 Portfolio Website
+<h3 align="center">🌐 Portfolio Website</h3>
 
-Responsive Personal Portfolio.
+<p align="center">
+Personal Developer Portfolio
+</p>
 
 <img src="https://img.shields.io/badge/HTML-FF5722?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-2196F3?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-FFEB3B?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 
-**Features**
+<br><br>
+
+A responsive portfolio website showcasing my projects, skills, experience, achievements, and contact information.
+
+**Key Features**
 - Modern UI
-- Resume section
 - Project showcase
+- Resume section
 - Contact form
+- Responsive design
 
 </td>
 </tr>
@@ -235,6 +264,37 @@ UI/UX Design            🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70%
 
 ---
 
+## 🎯 2026 Goals
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Technical Goals
+
+- Master **MERN Stack Development**
+- Build **AI-powered applications**
+- Improve **Java DSA problem solving**
+- Learn **System Design fundamentals**
+- Contribute to **open source projects**
+
+</td>
+<td width="50%">
+
+### 💼 Career Goals
+
+- Become a skilled **Software Engineer**
+- Build a strong **project portfolio**
+- Improve communication and teamwork
+- Prepare for **campus placements**
+- Work on real-world software solutions
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🏅 GitHub Trophies
 
 <div align="center">
@@ -245,16 +305,32 @@ UI/UX Design            🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 70%
 
 ---
 
-## 🌟 Quote
+## 💡 Developer Mindset
 
 <div align="center">
 
 ```text
-"The best way to predict the future is to create it."
+Learn deeply.
+Build consistently.
+Improve continuously.
+Share knowledge.
+Never stop growing.
 ```
-
-### ⭐ Thanks for visiting my colourful GitHub profile ⭐
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,50:7928CA,100:FF0080&height=120&section=footer" />
+---
+
+## 🌟 Quote I Believe In
+
+<div align="center">
+
+```text
+"Success is built one commit, one bug fix, and one lesson at a time."
+```
+
+### ⭐ Thanks for visiting my GitHub profile ⭐
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7928CA,100:FF0080&height=120&section=footer" />
