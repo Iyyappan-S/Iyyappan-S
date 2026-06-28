@@ -1,189 +1,222 @@
-<h1 align="center">Hi 👋, I'm Iyyappan S</h1>
-<h3 align="center">AI & Data Science Student | Full Stack Developer | Java Enthusiast</h3>
+<div align="center">
+
+<h1>Hi there! 👋 I'm</h1>
+
+# Iyyappan S
+
+### AI & Data Science Student | Full Stack Developer
+
+```bash
+./about_me.sh
+```
+
+```text
+I build solutions that make an impact.
+```
+
+</div>
+
+---
+
+## 📬 Contact
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Data+Science+Student;Full+Stack+Developer;Java+Programmer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <a href="mailto:vsbiyyappan2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vsbiyyappan2005%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/iyyappan--s/">
+    <img src="https://img.shields.io/badge/LinkedIn-Iyyappan%20S-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Iyyappan-S">
+    <img src="https://img.shields.io/badge/GitHub-Iyyappan--S-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://leetcode.com/u/Iyyappan-S/">
+    <img src="https://img.shields.io/badge/LeetCode-Iyyappan--S-orange?style=for-the-badge&logo=leetcode">
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="50%">
 
-🎓 Final Year B.Tech Artificial Intelligence & Data Science Student
+## 🧑‍💻 About Me
 
-💻 Passionate about Full Stack Development, AI, and solving real-world problems.
+Final year **B.Tech Artificial Intelligence & Data Science** student with a passion for building web applications and exploring real-world problems.
 
-🌱 Currently learning
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Advanced Java
-- Data Structures & Algorithms
-- Machine Learning
+- 🌱 Currently learning: **React.js, Advanced DSA, Machine Learning**
+- 🔭 Working on: **Full Stack Projects & AI Tools**
+- 🎯 Goal: To become a skilled **Software Engineer**
+- ⚡ Fun fact: I enjoy debugging and learning new technologies
 
-🎯 Career Goal
-
-To become a skilled Software Engineer by building impactful applications and continuously improving my technical and problem-solving skills.
-
----
+</td>
+<td width="50%">
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<p>
+### Languages
 <img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
 
-### 🌐 Frontend
-
-<p>
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
 
-### ⚙️ Backend
-
-<p>
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-### 🗄️ Database
-
-<p>
+### Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### 🛠️ Tools
-
-<p>
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Internship Experience
+<table>
+<tr>
+<td width="50%">
 
-### Backend Developer Intern
-**Smart Internz**
+## 📊 GitHub Stats
 
-- Developed REST APIs
-- Worked with Java & SQL
-- Implemented backend logic
-- Improved application performance
+<img src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=tokyonight&hide_border=true" />
 
-### Full Stack Developer Intern
-**UK InfoTech**
+<br>
 
-- Developed responsive web applications
-- Built frontend interfaces
-- Integrated backend services
-- Enhanced UI/UX
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iyyappan-S&theme=tokyonight&hide_border=true" />
+
+</td>
+<td width="50%">
+
+## 📈 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyyappan-S&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+## 🔥 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iyyappan-S&theme=tokyo-night&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+### Backend Developer Intern  
+**Smart Internz Online**  
+- Developed backend modules using Java, SQL, and REST APIs  
+- Implemented database operations and server-side logic  
+- Improved backend performance through debugging and optimization  
+
+### Full Stack Developer Intern  
+**UK InfoTech, Pudukkottai**  
+- Designed responsive web interfaces using HTML, CSS, and JavaScript  
+- Created interactive web pages  
+- Improved website usability and responsiveness  
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="33%">
+
 ### 🏥 MedSchedule Pro
 
-A Full Stack Doctor Appointment Booking System.
+Full Stack Doctor Appointment Booking System.
 
-**Features**
+**Tech Stack:**  
+HTML, CSS, JavaScript, Node.js, MongoDB
 
-- JWT Authentication
-- Appointment Booking
-- Admin Dashboard
-- AI Chatbot
-- Dark Mode
-- Responsive Design
+**Features:**  
+Authentication, appointment booking, admin dashboard, chatbot, dark mode
 
-**Tech Stack**
+</td>
+<td width="33%">
 
-HTML • CSS • JavaScript • Node.js • Express.js • MongoDB
+### 🔐 SLE Trifolder Encryption
+
+Multi-layer file encryption and decryption system.
+
+**Tech Stack:**  
+Python, Security, Encryption
+
+**Features:**  
+Password protection, secure file sharing, access control
+
+</td>
+<td width="33%">
+
+### 🌐 Portfolio Website
+
+Responsive personal portfolio website.
+
+**Tech Stack:**  
+HTML, CSS, JavaScript
+
+**Features:**  
+Projects, skills, achievements, contact section
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔐 SLE Trifolder Encryption & Decryption
-
-A secure multi-layer file encryption and decryption system.
-
-**Features**
-
-- Password Protection
-- Multi-layer Encryption
-- Secure File Sharing
-- Authentication
-
----
-
-### 🌐 Personal Portfolio
-
-A responsive portfolio website showcasing my projects, achievements, skills, and experience.
-
----
+<table>
+<tr>
+<td width="50%">
 
 ## 🏆 Achievements
 
-🥇 1st Prize – Tech Architecture
+- 🥇 1st Prize – Tech Architecture  
+- 🥇 1st Prize – Quiz Competition  
+- 🥇 1st Prize – Paper Presentation  
+- 🎤 Event Coordinator – Talkathon 2025  
 
-🥇 1st Prize – Quiz Competition
+</td>
+<td width="50%">
 
-🥇 1st Prize – Paper Presentation
+## 📜 Certifications
 
-🎤 Event Coordinator – Talkathon 2025
+- ✅ HTML & CSS – GUVI  
+- ✅ UI & UX Designing – Infosys Springboard  
+- ✅ Introduction to DSA in Java – Infosys Springboard  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🏅 GitHub Trophies
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyyappan-S&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyyappan-S&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/iyyappan--s/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Iyyappan-S">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="mailto:vsbiyyappan2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Iyyappan-S&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 💡 Quote
 
-> "Learning never stops. Every project is an opportunity to improve, innovate, and grow."
+```text
+The best way to predict the future is to create it.
+```
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thank you for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile! ⭐
 
-</p>
+**Code • Learn • Build • Repeat**
+
+</div>
