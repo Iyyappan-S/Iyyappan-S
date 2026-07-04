@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final year **B.Tech – Artificial Intelligence & Data Science** student at VSB College of Engineering Technical Campus (CGPA: 8.23)
+- 🎓 Final year **B.Tech – Artificial Intelligence & Data Science** student at VSB College of Engineering Technical Campus (CGPA: 8.04)
 - 💻 Passionate about **Web Development** and **Graphic Design**
 - 🌱 Skilled in **Java, Python, JavaScript**, and modern UI/UX tools
 - 🤝 Eager to contribute to real-world projects and impactful solutions
