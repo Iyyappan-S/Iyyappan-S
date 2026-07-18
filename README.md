@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Java+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Iyyappan-S;Java+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
 
 </div>
 
