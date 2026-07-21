@@ -1,21 +1,67 @@
 <div align="center">
 
+<!-- ===================== PREMIUM HEADER ===================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,40:7B2FF7,100:FF0080&text=Iyyappan%20S&fontSize=70&fontColor=FFFFFF&animation=twinkling&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer&descSize=22&descAlignY=75&section=header"/>
+
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=Hi+I'm+Iyyappan+S;AI+%26+Data+Science+Student;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Real+World+Applications;Exploring+Artificial+Intelligence;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat"/>
+
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=Hi+I'm+Iyyappan+S;AI+%26+Data+Science+Student;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Real+World+Applications;Exploring+Artificial+Intelligence;Learn+→+Build+→+Improve+→+Repeat"/>
+
+<!-- ===================== PROFILE BADGES ===================== -->
+
+
+<img src="https://komarev.com/ghpvc/?username=Iyyappan-S&label=PROFILE%20VIEWS&style=for-the-badge&color=FF0080"/>
+
+<img src="https://img.shields.io/github/followers/Iyyappan-S?style=for-the-badge&color=00C853&labelColor=111827"/>
+
+<img src="https://img.shields.io/github/stars/Iyyappan-S?style=for-the-badge&color=FFD700&labelColor=111827"/>
+
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Iyyappan-S&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
-<img src="https://img.shields.io/github/followers/Iyyappan-S?style=for-the-badge&color=00C853&label=Followers"/>
+<!-- ===================== SOCIAL LINKS ===================== -->
 
-<img src="https://img.shields.io/github/stars/Iyyappan-S?style=for-the-badge&color=FFD700&label=Stars"/>
+
+<a href="mailto:vsbiyyappan2005@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+
+<a href="https://www.linkedin.com/in/iyyappan--s/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+<a href="https://github.com/Iyyappan-S">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+
+<a href="https://leetcode.com/u/Iyyappan-S/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
 
 </div>
 
+
+---
 # 👨‍💻 About Me
 
 
