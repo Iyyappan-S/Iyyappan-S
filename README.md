@@ -765,43 +765,6 @@ A responsive portfolio website created to showcase my skills, projects, achievem
 
 ---
 
-# 🎯 2026 Goals
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 💻 Technical Goals
-
-- ✅ Master MERN Stack
-- ✅ Build AI Products
-- ✅ Improve Java DSA
-- ✅ Learn System Design
-- ✅ Explore Cloud Computing
-- ✅ Contribute to Open Source
-
-</td>
-
-<td width="50%">
-
-### 💼 Career Goals
-
-- 🎯 Software Engineer
-- 🎯 Product Development
-- 🎯 Build Real World Applications
-- 🎯 Crack Top Product Companies
-- 🎯 Strong GitHub Portfolio
-- 🎯 Continuous Learning
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 📚 Learning Roadmap
 
