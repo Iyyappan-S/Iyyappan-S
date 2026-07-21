@@ -304,3 +304,433 @@ Repeat 🔄
 
 
 ---
+
+# 💼 Internship Experience
+
+
+<table>
+
+<tr>
+
+
+<td width="50%" valign="top">
+
+
+## 🟣 Backend Developer Intern
+
+### Smart Internz
+
+📍 Online Internship
+
+
+During this internship, I worked on backend development concepts and improved my understanding of server-side application development.
+
+
+### Responsibilities
+
+- Developed backend modules
+- Worked with Java and SQL
+- Implemented database operations
+- Learned REST API development
+- Debugged backend issues
+- Improved application performance
+- Collaborated with team members
+
+
+### Skills Gained
+
+`Java` `SQL` `Backend Development` `API Development`
+
+
+</td>
+
+
+
+<td width="50%" valign="top">
+
+
+## 🔵 Full Stack Developer Intern
+
+### UK InfoTech
+
+📍 Pudukkottai
+
+
+Worked on designing and developing responsive web applications using modern frontend technologies.
+
+
+### Responsibilities
+
+- Created responsive user interfaces
+- Improved website design
+- Connected frontend with backend services
+- Worked with JavaScript components
+- Tested application functionality
+- Improved user experience
+
+
+### Skills Gained
+
+`HTML` `CSS` `JavaScript` `Frontend Development` `UI Design`
+
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+
+---
+
+
+# 🚀 Featured Projects
+
+
+<div align="center">
+
+
+## 💰 FinWise AI
+
+
+<img src="./assets/finwise-ai.png" width="90%" alt="FinWise AI Project"/>
+
+
+</div>
+
+
+
+### 🤖 AI Powered Financial Management System
+
+
+FinWise AI is an intelligent finance management platform that helps users track income, expenses, analyse spending patterns, and receive AI-powered financial assistance.
+
+
+### ✨ Key Features
+
+
+- 🔐 Secure user authentication
+- 💰 Income tracking
+- 💸 Expense management
+- 📊 Financial analytics dashboard
+- 📈 Interactive charts
+- 🤖 Gemini AI assistant
+- 🧠 Future RAG-based financial knowledge system
+- 🔒 Secure database management
+
+
+### 🛠 Technology Stack
+
+
+<div align="left">
+
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+
+</div>
+
+
+<br>
+
+
+<a href="YOUR_FINWISE_REPOSITORY_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+<br><br>
+
+
+---
+
+
+
+<div align="center">
+
+
+## 🏥 MedSchedule Pro
+
+
+<img src="./assets/medschedule-pro.png" width="90%" alt="MedSchedule Pro"/>
+
+
+</div>
+
+
+
+### 🏥 Smart Healthcare Appointment Platform
+
+
+MedSchedule Pro is a full-stack healthcare application designed to simplify doctor discovery, appointment booking, and healthcare management.
+
+
+### ✨ Key Features
+
+
+- 👨‍⚕️ Doctor profile management
+- 🔎 Doctor search and filtering
+- 📅 Appointment scheduling
+- 🔐 JWT authentication
+- 👨‍💼 Admin dashboard
+- 🤖 AI chatbot assistance
+- 🌙 Dark mode interface
+- 📱 Responsive design
+
+
+### 🛠 Technology Stack
+
+
+<div align="left">
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+
+</div>
+
+
+
+<br>
+
+
+<a href="YOUR_MEDSCHEDULE_REPOSITORY_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+
+<br><br>
+
+
+---
+
+
+
+<div align="center">
+
+
+## 🔐 SLE Trifolder Encryption System
+
+
+<img src="./assets/sle-encryption.png" width="90%" alt="SLE Encryption"/>
+
+
+</div>
+
+
+
+### 🔒 Secure Multi-Layer File Encryption
+
+
+SLE Trifolder Encryption is a cybersecurity project that provides secure file encryption and decryption using multiple protection layers.
+
+
+### ✨ Key Features
+
+
+- 🔐 Multi-layer encryption
+- 🔑 Password-based protection
+- 📁 Secure file handling
+- 🛡 Data confidentiality
+- 🔓 File decryption
+- 🚫 Unauthorized access prevention
+
+
+### 🛠 Technology Stack
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cryptography-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cyber_Security-FF1744?style=for-the-badge"/>
+
+
+
+<br>
+
+
+<a href="YOUR_SLE_REPOSITORY_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+
+<br><br>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+## 🌐 Developer Portfolio Website
+
+
+<img src="./assets/portfolio.png" width="90%" alt="Portfolio Website"/>
+
+
+</div>
+
+
+
+### 💻 Personal Branding Website
+
+
+A responsive portfolio website created to showcase my skills, projects, achievements, internships, and professional journey.
+
+
+### ✨ Features
+
+
+- Modern UI design
+- Responsive layout
+- Project showcase
+- Skills section
+- Resume integration
+- Contact section
+- Social media integration
+
+
+### 🛠 Technology Stack
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+
+<br>
+
+
+<a href="YOUR_PORTFOLIO_REPOSITORY_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+---
+
+
+
+# 🤖 AI & Machine Learning Projects
+
+
+
+<table>
+
+<tr>
+
+
+<td width="50%">
+
+
+## 🧠 AI Based Deepfake Detection System
+
+
+<img src="./assets/deepfake-ai.png" width="100%"/>
+
+
+An AI-powered media verification system designed to detect manipulated images and videos using deep learning techniques.
+
+
+### Technologies
+
+
+`Python`
+
+`Deep Learning`
+
+`CNN`
+
+`Computer Vision`
+
+`Face Analysis`
+
+
+</td>
+
+
+
+<td width="50%">
+
+
+## 🌱 Smart Agriculture AI Assistant
+
+
+An intelligent agriculture solution using machine learning techniques to support better farming decisions.
+
+
+### Technologies
+
+
+`Python`
+
+`Machine Learning`
+
+`Data Analysis`
+
+`Predictive Models`
+
+
+### Future Scope
+
+
+- Crop prediction
+- Disease detection
+- Smart recommendations
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
