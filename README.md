@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:FF0080,50:7928CA,100:00D4FF&text=Iyyappan%20S&fontSize=65&fontColor=FFFFFF&animation=twinkling&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer&descSize=19&descAlignY=72" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Turning+Ideas+Into+Intelligent+Software;Building+Full+Stack+Web+Applications;Exploring+AI+%26+Machine+Learning;Java+%7C+Python+%7C+JavaScript+%7C+Node.js;Learn+%E2%9E%9C+Build+%E2%9E%9C+Improve+%E2%9E%9C+Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Iyyappan+S;Turning+Ideas+Into+Intelligent+Software;Building+Full+Stack+Web+Applications;Exploring+AI;Java+%7C+Python+%7C+JavaScript+%7C+Node.js;Learn+%E2%9E%9C+Build+%E2%9E%9C+Improve+%E2%9E%9C+Repeat" />
 
 <br>
 
