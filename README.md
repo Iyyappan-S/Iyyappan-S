@@ -734,3 +734,206 @@ An intelligent agriculture solution using machine learning techniques to support
 
 
 ---
+
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyyappan-S&theme=radical&hide_border=true"/>
+
+<br><br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyyappan-S&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iyyappan-S&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧩 LeetCode Progress
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Iyyappan-S?theme=dark&font=Baloo&ext=heatmap"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Iyyappan-S&theme=radical&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🏅 Achievements
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🥇 Academic & Technical
+
+🏆 1st Prize – Tech Architecture Competition
+
+🏆 1st Prize – Quiz Competition
+
+🏆 1st Prize – Paper Presentation
+
+🎤 Event Coordinator – Talkathon 2025
+
+💻 Built multiple Full Stack Projects
+
+🤖 Developed AI-based applications
+
+</td>
+
+<td width="50%">
+
+## 🚀 Career
+
+✔ Backend Development Internship
+
+✔ Full Stack Development Internship
+
+✔ Java Programming
+
+✔ Database Design
+
+✔ REST API Development
+
+✔ AI & Machine Learning Learning Path
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+| Certification | Platform |
+|:-------------|:---------|
+| HTML & CSS | GUVI |
+| UI & UX Designing | Infosys Springboard |
+| Introduction to DSA in Java | Infosys Springboard |
+| SQL Fundamentals | Oracle / Learning Platform |
+| Artificial Intelligence Fundamentals | Self Learning |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Technical Goals
+
+- ✅ Master MERN Stack
+- ✅ Build AI Products
+- ✅ Improve Java DSA
+- ✅ Learn System Design
+- ✅ Explore Cloud Computing
+- ✅ Contribute to Open Source
+
+</td>
+
+<td width="50%">
+
+### 💼 Career Goals
+
+- 🎯 Software Engineer
+- 🎯 Product Development
+- 🎯 Build Real World Applications
+- 🎯 Crack Top Product Companies
+- 🎯 Strong GitHub Portfolio
+- 🎯 Continuous Learning
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+Java Programming          ███████████████████░ 95%
+
+Data Structures           █████████████████░░ 85%
+
+Full Stack Development    █████████████████░░ 85%
+
+Node.js & Express         ████████████████░░░ 80%
+
+React.js                  ███████████████░░░░ 75%
+
+Machine Learning          █████████████░░░░░░ 65%
+
+Generative AI             ████████████░░░░░░░ 60%
+
+System Design             ██████████░░░░░░░░░ 50%
+```
+
+---
+
+# 🚀 Current Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-FF5722?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💡 Favorite Quote
+
+<div align="center">
+
+> **"Success is built one commit, one bug fix, and one lesson at a time."**
+
+</div>
+
+---
