@@ -69,7 +69,7 @@
 
 <tr>
 
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 
 Hello! I'm **Iyyappan S**, a passionate **Artificial Intelligence & Data Science student** and an aspiring **Full Stack Developer**.
@@ -103,7 +103,6 @@ Currently, I am improving my skills in:
 <td width="40%" align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
 
 </td>
@@ -116,82 +115,8 @@ Currently, I am improving my skills in:
 
 ---
 
-# 🚀 Developer Identity
 
 
-```yaml
-Name:
-  Iyyappan S
-
-
-Role:
-  - Full Stack Developer
-  - AI & Data Science Student
-
-
-Education:
-  Degree:
-    B.Tech Artificial Intelligence and Data Science
-
-  College:
-    VSB College of Engineering Technical Campus
-
-
-Programming Languages:
-
-  - Java
-  - Python
-  - JavaScript
-  - SQL
-
-
-Frontend:
-
-  - HTML
-  - CSS
-  - JavaScript
-  - React.js
-
-
-Backend:
-
-  - Node.js
-  - Express.js
-  - REST APIs
-
-
-Database:
-
-  - MongoDB
-  - MySQL
-
-
-Goal:
-
-  Become a Software Engineer
-  and build impactful technology solutions.
-```
-
-
----
-
-# 🔥 Current Focus
-
-
-<div align="center">
-
-
-| Area | Currently Working On |
-|:---:|:---|
-| 💻 Development | Full Stack Web Applications |
-| 🤖 AI | Machine Learning & Generative AI |
-| 🧠 LLM | RAG Based Applications |
-| ☕ Coding | Java + Data Structures |
-| 🌐 Web | MERN Stack |
-| 🎯 Career | Software Engineering Placements |
-
-
-</div>
 
 
 ---
@@ -830,77 +755,7 @@ System Design             ██████████░░░░░░░░
 
 </div>
 
----
 
-# 💻 Developer Philosophy
-
-<div align="center">
-
-```text
-         💡 Think
-
-            │
-
-            ▼
-
-        📝 Design
-
-            │
-
-            ▼
-
-       💻 Develop
-
-            │
-
-            ▼
-
-        🧪 Test
-
-            │
-
-            ▼
-
-        🚀 Deploy
-
-            │
-
-            ▼
-
-      📈 Improve
-
-            │
-
-            ▼
-
-        🔁 Repeat
-```
-
-</div>
-
----
-
-# 🌟 Fun Facts
-
-<div align="center">
-
-🎯 AI & Data Science Enthusiast
-
-💻 Passionate Full Stack Developer
-
-☕ Java Lover
-
-🚀 Love Building Real World Applications
-
-🧠 Always Learning New Technologies
-
-🌍 Interested in Open Source Contributions
-
-📚 Believe in Continuous Learning
-
-</div>
-
----
 
 # 📈 My Development Journey
 
@@ -924,23 +779,7 @@ System Design             ███████████░░░░░░░
 
 ---
 
-# ❤️ Support My Work
 
-<div align="center">
-
-If you like my projects,
-
-⭐ Star my repositories
-
-🍴 Fork my projects
-
-🤝 Collaborate with me
-
-💡 Share ideas
-
-🚀 Build amazing things together!
-
-</div>
 
 ---
 
