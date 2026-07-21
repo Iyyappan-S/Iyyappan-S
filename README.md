@@ -701,54 +701,6 @@ A responsive portfolio website created to showcase my skills, projects, achievem
 
 ---
 
-# 🏅 Achievements
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🥇 Academic & Technical
-
-🏆 1st Prize – Tech Architecture Competition
-
-🏆 1st Prize – Quiz Competition
-
-🏆 1st Prize – Paper Presentation
-
-🎤 Event Coordinator – Talkathon 2025
-
-💻 Built multiple Full Stack Projects
-
-🤖 Developed AI-based applications
-
-</td>
-
-<td width="50%">
-
-## 🚀 Career
-
-✔ Backend Development Internship
-
-✔ Full Stack Development Internship
-
-✔ Java Programming
-
-✔ Database Design
-
-✔ REST API Development
-
-✔ AI & Machine Learning Learning Path
-
-</td>
-
-</tr>
-
-</table>
-
----
-
 # 📜 Certifications
 
 <div align="center">
