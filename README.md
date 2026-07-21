@@ -937,3 +937,219 @@ System Design             ██████████░░░░░░░░
 </div>
 
 ---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Iyyappan-S/Iyyappan-S/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/Iyyappan-S">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Iyyappan-S/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/iyyappan--s/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vsbiyyappan2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://iyyappan-s-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📬 Let's Connect
+
+<div align="center">
+
+💼 Looking for Internship Opportunities
+
+🤝 Open Source Collaborations
+
+🚀 Full Stack Development
+
+🤖 Artificial Intelligence Projects
+
+☕ Java Development
+
+📧 **Email**
+
+**vsbiyyappan2005@gmail.com**
+
+</div>
+
+---
+
+# 💻 Developer Philosophy
+
+<div align="center">
+
+```text
+         💡 Think
+
+            │
+
+            ▼
+
+        📝 Design
+
+            │
+
+            ▼
+
+       💻 Develop
+
+            │
+
+            ▼
+
+        🧪 Test
+
+            │
+
+            ▼
+
+        🚀 Deploy
+
+            │
+
+            ▼
+
+      📈 Improve
+
+            │
+
+            ▼
+
+        🔁 Repeat
+```
+
+</div>
+
+---
+
+# 🌟 Fun Facts
+
+<div align="center">
+
+🎯 AI & Data Science Enthusiast
+
+💻 Passionate Full Stack Developer
+
+☕ Java Lover
+
+🚀 Love Building Real World Applications
+
+🧠 Always Learning New Technologies
+
+🌍 Interested in Open Source Contributions
+
+📚 Believe in Continuous Learning
+
+</div>
+
+---
+
+# 📈 My Development Journey
+
+```text
+Started Programming       ████████████████████████ 100%
+
+Web Development           █████████████████████░░ 90%
+
+Backend Development       ████████████████████░░░ 85%
+
+Java Programming          ████████████████████░░░ 85%
+
+Database Management       ██████████████████░░░░░ 80%
+
+Artificial Intelligence   ███████████████░░░░░░░░ 70%
+
+Machine Learning          █████████████░░░░░░░░░░ 65%
+
+System Design             ███████████░░░░░░░░░░░░ 55%
+```
+
+---
+
+# ❤️ Support My Work
+
+<div align="center">
+
+If you like my projects,
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+🤝 Collaborate with me
+
+💡 Share ideas
+
+🚀 Build amazing things together!
+
+</div>
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> **"Code with passion, learn with curiosity, and build solutions that make a difference."**
+
+</div>
+
+---
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Iyyappan-S&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+# ⚡ Profile Summary
+
+<div align="center">
+
+| 💻 Projects | 🤖 AI | 🌐 Full Stack | ☕ Java | 📚 Learning |
+|:----------:|:----:|:-------------:|:------:|:-----------:|
+| 10+ | ✔ | ✔ | ✔ | Everyday |
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ Thank You for Visiting My Profile ⭐
+
+### 🚀 Keep Learning • Keep Building • Keep Growing 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff&animation=twinkling&color=0:00F5FF,30:7B2FF7,70:FF0080,100:FF9800"/>
+
+</div>
