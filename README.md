@@ -130,95 +130,79 @@ Become a Software Engineer and build products that solve real-world problems.
 ---
 # 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 
 <tr>
 
-# 🚀 Featured Projects
+<td width="50%" align="center">
 
----
+<a href="YOUR_GITHUB_REPO_LINK">
 
-## 🏥 MedSchedule Pro
+<img src="./assets/medschedule-pro.png" width="100%" alt="MedSchedule Pro"/>
 
-<p align="center">
-<img src="./assets/medschedule-pro.png" width="90%" alt="MedSchedule Pro"/>
-</p>
+</a>
 
-### 📌 Overview
+### 🏥 MedSchedule Pro
 
-A full-stack healthcare web application that enables users to discover doctors, schedule appointments, and manage bookings through a modern and responsive interface.
+> **Doctor Appointment Booking Platform**
 
-### 🚀 Key Features
+`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
 
-- 🔐 Secure User Authentication
-- 👨‍⚕️ Doctor Management
-- 📅 Appointment Booking
-- 🤖 AI Chatbot Integration
-- 📱 Responsive Design
-- 🌙 Dark Mode Support
+</td>
 
-### 🛠 Tech Stack
+<td width="50%" align="center">
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
+<a href="YOUR_GITHUB_REPO_LINK">
 
----
+<img src="./assets/sle-encryption.jpg" width="100%" alt="SLE Encryption"/>
 
-## 🔐 SLE Trifolder Encryption
+</a>
 
-<p align="center">
-<img src="./assets/sle-encryption.jpg" width="90%" alt="SLE Trifolder Encryption"/>
-</p>
+### 🔐 SLE Trifolder Encryption
 
-### 📌 Overview
-
-A secure file encryption and decryption application that protects sensitive data using a multi-layer encryption mechanism.
-
-### 🚀 Key Features
-
-- 🔑 Password Protection
-- 🔒 Multi-layer Encryption
-- 📂 Secure File Sharing
-- 🛡 Data Confidentiality
-
-### 🛠 Tech Stack
+> **Multi-Layer Secure File Encryption**
 
 `Python`
 
----
+</td>
 
-## 🌐 Portfolio Website
+</tr>
 
-<p align="center">
-<img src="./assets/portfolio.png" width="90%" alt="Portfolio"/>
-</p>
+<tr>
 
-### 📌 Overview
+<td width="50%" align="center">
 
-A responsive portfolio website showcasing my projects, technical skills, achievements, certifications, and contact information.
+<a href="YOUR_GITHUB_REPO_LINK">
 
-### 🚀 Key Features
+<img src="./assets/portfolio.png" width="100%" alt="Portfolio"/>
 
-- 🎨 Modern UI Design
-- 📱 Fully Responsive
-- 📂 Project Showcase
-- 📄 Resume Download
-- 📞 Contact Section
+</a>
 
-### 🛠 Tech Stack
+### 🌐 Portfolio Website
+
+> **Modern Responsive Developer Portfolio**
 
 `HTML` `CSS` `JavaScript`
 
----# 📊 GitHub Analytics
+</td>
 
-<div align="center">
+<td width="50%" align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://placehold.co/800x450/181818/FFFFFF?text=Coming+Soon" width="100%" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyyappan-S&theme=tokyonight&hide_border=true&border_radius=15"/>
+### 🚀 FinWise AI
 
-<br><br>
+> **AI Powered Finance Tracker**
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyyappan-S&layout=compact&theme=tokyonight&hide_border=true"/>
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
