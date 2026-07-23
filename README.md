@@ -135,26 +135,65 @@ Become a Software Engineer and build products that solve real-world problems.
 <tr>
 
 <td align="center">
+<img src="./assets/medschedule-pro.png"
+width="850"
+alt="MedSchedule Pro"/>
 
-<img src="./assets/medschedule-pro.png"/>
+## 🏥 MedSchedule Pro
 
-### 🏥 MedSchedule Pro
+<img src="./assets/medschedule-pro.png" width="100%" alt="MedSchedule Pro"/>
 
-Doctor Appointment Booking System
+### 📌 Overview
 
-HTML • CSS • JavaScript • Node.js • MongoDB
+A full-stack healthcare web application that enables users to discover doctors, schedule appointments, and manage bookings through a modern and responsive interface.
+
+### 🚀 Key Features
+
+- 🔐 Secure User Authentication
+- 👨‍⚕️ Doctor Management
+- 📅 Appointment Booking
+- 🤖 AI Chatbot Integration
+- 📱 Responsive Design
+- 🌙 Dark Mode Support
+
+### 🛠 Tech Stack
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
+
+
+---
 
 </td>
 
 <td align="center">
+<img src="./assets/sle-encryption.png"
+width="850"
+alt="SLE Trifolder Encryption"/>
 
-<img src="./assets/sle-encryption.jpg"/>
+## 🔐 SLE Trifolder Encryption
 
-### 🔐 SLE Trifolder Encryption
+<img src="./assets/sle-encryption.jpg" width="100%" alt="SLE Encryption"/>
 
-Secure File Encryption
+### 📌 Overview
 
-Python
+A secure file encryption and decryption application that protects sensitive data using a multi-layer encryption mechanism.
+
+### 🚀 Key Features
+
+- 🔑 Password Protection
+- 🔒 Multi-layer Encryption
+- 📂 Secure File Sharing
+- 🛡 Data Confidentiality
+
+### 🛠 Tech Stack
+
+`Python`
+
+
+
+
+---
+
 
 </td>
 
@@ -162,11 +201,28 @@ Python
 
 <img src="./assets/portfolio.png"/>
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
-Responsive Portfolio
+<img src="./assets/portfolio.png" width="100%" alt="Portfolio"/>
 
-HTML • CSS • JavaScript
+### 📌 Overview
+
+A responsive portfolio website showcasing my projects, technical skills, achievements, certifications, and contact information.
+
+### 🚀 Key Features
+
+- 🎨 Modern UI Design
+- 📱 Fully Responsive
+- 📂 Project Showcase
+- 📄 Resume Download
+- 📞 Contact Section
+
+### 🛠 Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+---
+
 
 </td>
 
