@@ -1,601 +1,171 @@
 <div align="center">
 
-<!-- ===================== PREMIUM HEADER ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,40:7B2FF7,100:FF0080&text=Iyyappan%20S&fontSize=70&fontColor=FFFFFF&animation=twinkling&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full%20Stack%20Developer&descSize=22&descAlignY=75&section=header"/>
-
-
-<!-- ===================== TYPING ANIMATION ===================== -->
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=Hi+I'm+Iyyappan+S;AI+%26+Data+Science+Student;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Real+World+Applications;Exploring+Artificial+Intelligence;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat"/>
-
+<img src="./assets/banner.png" width="100%" alt="Banner"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Iyyappan+S;AI+%26+Data+Science+Student;Full+Stack+Developer;Java+Developer;Building+Real+World+Applications;Always+Learning+New+Technologies" />
 
-<!-- ===================== PROFILE BADGES ===================== -->
+<br>
 
+<img src="https://komarev.com/ghpvc/?username=Iyyappan-S&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
-<img src="https://komarev.com/ghpvc/?username=Iyyappan-S&label=PROFILE%20VIEWS&style=for-the-badge&color=FF0080"/>
+<img src="https://img.shields.io/github/followers/Iyyappan-S?style=for-the-badge&logo=github&color=00C853"/>
 
-<img src="https://img.shields.io/github/followers/Iyyappan-S?style=for-the-badge&color=00C853&labelColor=111827"/>
-
-<img src="https://img.shields.io/github/stars/Iyyappan-S?style=for-the-badge&color=FFD700&labelColor=111827"/>
-
+<img src="https://img.shields.io/github/stars/Iyyappan-S?style=for-the-badge&logo=github&color=FFD600"/>
 
 <br><br>
-
-
-<!-- ===================== SOCIAL LINKS ===================== -->
-
 
 <a href="mailto:vsbiyyappan2005@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
-
 
 <a href="https://www.linkedin.com/in/iyyappan--s/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
-
 
 <a href="https://github.com/Iyyappan-S">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 
 <a href="https://leetcode.com/u/Iyyappan-S/">
-
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
 </a>
-
 
 </div>
 
-
 ---
-# 👨‍💻 About Me
-
+# 🌈 About Me
 
 <table>
-
 <tr>
 
-<td width="100%" valign="top">
+<td width="60%">
 
+## 👨‍💻 Hello!
 
-Hello! I'm **Iyyappan S**, a passionate **Artificial Intelligence & Data Science student** and an aspiring **Full Stack Developer**.
+I'm **Iyyappan S**, a Final Year **B.Tech Artificial Intelligence & Data Science** student passionate about building intelligent software and scalable web applications.
 
+### 🚀 What I'm Doing
 
-I enjoy building software solutions that combine:
+- 🌱 Learning MERN Stack & AI
+- 💻 Building Full Stack Projects
+- ☕ Solving Java & DSA Problems
+- 🤖 Exploring Machine Learning
+- 📚 Preparing for Software Engineering Roles
 
-- 🌐 Modern web technologies
-- 🤖 Artificial Intelligence
-- 🗄️ Database systems
-- ⚡ Backend engineering
-- 🧩 Problem solving
+### 🎯 Career Objective
 
-
-My goal is to become a skilled **Software Engineer** who creates scalable, efficient, and intelligent applications.
-
-
-Currently, I am improving my skills in:
-
-- Full Stack Development
-- Java Programming
-- Data Structures & Algorithms
-- Machine Learning
-- Large Language Models
-- System Design
-
+To become a Software Engineer who creates innovative, impactful, and user-friendly applications using AI and modern web technologies.
 
 </td>
 
+<td width="40%">
 
-<td width="40%" align="center">
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=radical&hide_border=true"/>
 
 </td>
-
 
 </tr>
-
 </table>
 
-
 ---
-
-
-
-
-
----
-
-# 🛠️ Tech Stack
-
+# 🧰 Tech Stack
 
 <div align="center">
 
+### 💻 Languages
 
-## 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
 
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 
+### ⚙️ Backend
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
+### 🗄️ Database
 
-## 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
+### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-
-
-<br><br>
-
-
-## ⚙️ Backend Development
-
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-
-<br><br>
-
-
-## 🗄️ Databases
-
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-
-<br><br>
-
-
-## 🧰 Tools & Platforms
-
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,npm" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
 
 </div>
-
 
 ---
-
-# 🤖 AI & Data Science Toolkit
-
-
-<div align="center">
-
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
-
-
-<img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/Large%20Language%20Models-00C6FF?style=for-the-badge"/>
-
-
-<img src="https://img.shields.io/badge/RAG%20Applications-FF0080?style=for-the-badge"/>
-
-
-<img src="https://img.shields.io/badge/Data%20Analytics-00C853?style=for-the-badge"/>
-
-
-</div>
-
-
----
-
-# 💡 Developer Philosophy
-
-
-<div align="center">
-
-
-```
-Learn 📚
-
-Build 🚀
-
-Experiment 🧪
-
-Improve 📈
-
-Share 🌎
-
-Repeat 🔄
-```
-
-
-</div>
-
-
----
-
-# 💼 Internship Experience
-
-
-<table>
-
-<tr>
-
-
-<td width="50%" valign="top">
-
-
-## 🟣 Backend Developer Intern
-
-### Smart Internz
-
-📍 Online Internship
-
-
-During this internship, I worked on backend development concepts and improved my understanding of server-side application development.
-
-
-### Responsibilities
-
-- Developed backend modules
-- Worked with Java and SQL
-- Implemented database operations
-- Learned REST API development
-- Debugged backend issues
-- Improved application performance
-- Collaborated with team members
-
-
-### Skills Gained
-
-`Java` `SQL` `Backend Development` `API Development`
-
-
-</td>
-
-
-
-<td width="50%" valign="top">
-
-
-## 🔵 Full Stack Developer Intern
-
-### UK InfoTech
-
-📍 Pudukkottai
-
-
-Worked on designing and developing responsive web applications using modern frontend technologies.
-
-
-### Responsibilities
-
-- Created responsive user interfaces
-- Improved website design
-- Connected frontend with backend services
-- Worked with JavaScript components
-- Tested application functionality
-- Improved user experience
-
-
-### Skills Gained
-
-`HTML` `CSS` `JavaScript` `Frontend Development` `UI Design`
-
-
-</td>
-
-
-</tr>
-
-</table>
-
-
-
----
-
-
-# 🚀 Featured Projects
-
-
-<div align="center">
-
-
-## 💰 FinWise AI
-
-
-<img src="./assets/finwise-ai.png" width="90%" alt="FinWise AI Project"/>
-
-
-</div>
-
-
-
-### 🤖 AI Powered Financial Management System
-
-
-FinWise AI is an intelligent finance management platform that helps users track income, expenses, analyse spending patterns, and receive AI-powered financial assistance.
-
-
-### ✨ Key Features
-
-
-- 🔐 Secure user authentication
-- 💰 Income tracking
-- 💸 Expense management
-- 📊 Financial analytics dashboard
-- 📈 Interactive charts
-- 🤖 Gemini AI assistant
-- 🧠 Future RAG-based financial knowledge system
-- 🔒 Secure database management
-
-
-### 🛠 Technology Stack
-
-
-<div align="left">
-
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-
-</div>
-
-
-<br>
-
-
-<a href="YOUR_FINWISE_REPOSITORY_LINK">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-<br><br>
-
-
----
-
-
-
-<div align="center">
-
-
-## 🏥 MedSchedule Pro
-
-
-<img src="./assets/medschedule-pro.png" width="90%" alt="MedSchedule Pro"/>
-
-
-</div>
-
-
-
-### 🏥 Smart Healthcare Appointment Platform
-
-
-MedSchedule Pro is a full-stack healthcare application designed to simplify doctor discovery, appointment booking, and healthcare management.
-
-
-### ✨ Key Features
-
-
-- 👨‍⚕️ Doctor profile management
-- 🔎 Doctor search and filtering
-- 📅 Appointment scheduling
-- 🔐 JWT authentication
-- 👨‍💼 Admin dashboard
-- 🤖 AI chatbot assistance
-- 🌙 Dark mode interface
-- 📱 Responsive design
-
-
-### 🛠 Technology Stack
-
-
-<div align="left">
-
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-
-</div>
-
-
-
-<br>
-
-
-<a href="YOUR_MEDSCHEDULE_REPOSITORY_LINK">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-
-<br><br>
-
-
----
-
-
-
-<div align="center">
-
-
-## 🔐 SLE Trifolder Encryption System
-
-
-<img src="./assets/sle-encryption.png" width="90%" alt="SLE Encryption"/>
-
-
-</div>
-
-
-
-### 🔒 Secure Multi-Layer File Encryption
-
-
-SLE Trifolder Encryption is a cybersecurity project that provides secure file encryption and decryption using multiple protection layers.
-
-
-### ✨ Key Features
-
-
-- 🔐 Multi-layer encryption
-- 🔑 Password-based protection
-- 📁 Secure file handling
-- 🛡 Data confidentiality
-- 🔓 File decryption
-- 🚫 Unauthorized access prevention
-
-
-### 🛠 Technology Stack
-
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cryptography-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cyber_Security-FF1744?style=for-the-badge"/>
-
-
-
-<br>
-
-
-<a href="YOUR_SLE_REPOSITORY_LINK">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-
-<br><br>
-
-
-
----
-
-
-
-<div align="center">
-
-
-## 🌐 Developer Portfolio Website
-
-
-<img src="./assets/portfolio.png" width="90%" alt="Portfolio Website"/>
-
-
-</div>
-
-
-
-### 💻 Personal Branding Website
-
-
-A responsive portfolio website created to showcase my skills, projects, achievements, internships, and professional journey.
-
-
-### ✨ Features
-
-
-- Modern UI design
-- Responsive layout
-- Project showcase
-- Skills section
-- Resume integration
-- Contact section
-- Social media integration
-
-
-### 🛠 Technology Stack
-
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-
-
-<br>
-
-
-<a href="YOUR_PORTFOLIO_REPOSITORY_LINK">
-
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-
----
-
-
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyyappan-S&theme=radical&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyyappan-S&theme=radical&hide_border=true"/>
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyyappan-S&layout=compact&theme=radical&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyyappan-S&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
+# 🚀 Featured Projects
 
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+<img src="./assets/medschedule-pro.png"/>
+
+### 🏥 MedSchedule Pro
+
+Doctor Appointment Booking System
+
+**Tech**
+
+HTML • CSS • JavaScript • Node.js • MongoDB
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="./assets/sle-encryption.jpg"/>
+
+### 🔐 SLE Trifolder Encryption
+
+Secure Multi-layer File Encryption System
+
+**Tech**
+
+Python • Encryption • Security
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="./assets/portfolio.png"/>
+
+### 🌐 Portfolio Website
+
+Responsive Personal Portfolio
+
+**Tech**
+
+HTML • CSS • JavaScript
+
+</td>
+
+</tr>
+
+</table>
+
+---
 # 📈 Contribution Graph
 
 <div align="center">
@@ -606,223 +176,76 @@ A responsive portfolio website created to showcase my skills, projects, achievem
 
 ---
 
-# 🧩 LeetCode Progress
+# 🏆 Achievements
 
-<div align="center">
+🥇 Tech Architecture Winner
 
-<img src="https://leetcard.jacoblin.cool/Iyyappan-S?theme=dark&font=Baloo&ext=heatmap"/>
+🥇 Quiz Competition Winner
 
-</div>
+🥇 Paper Presentation Winner
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Iyyappan-S&theme=radical&no-frame=true&row=2&column=4"/>
-
-</div>
+🎤 Event Coordinator — Talkathon 2025
 
 ---
 
 # 📜 Certifications
 
-<div align="center">
+✅ HTML & CSS
 
-| Certification | Platform |
-|:-------------|:---------|
-| HTML & CSS | GUVI |
-| UI & UX Designing | Infosys Springboard |
-| Introduction to DSA in Java | Infosys Springboard |
-| SQL Fundamentals | Oracle / Learning Platform |
-| Artificial Intelligence Fundamentals | Self Learning |
+✅ UI/UX Designing
 
-</div>
+✅ Java DSA
 
 ---
-
-
-# 📚 Learning Roadmap
+# 🔥 Current Focus
 
 ```text
-Java Programming          ███████████████████░ 95%
+Full Stack Development   █████████░ 90%
 
-Data Structures           █████████████████░░ 85%
+Java Programming         ████████░░ 80%
 
-Full Stack Development    █████████████████░░ 85%
+Backend Development      ████████░░ 80%
 
-Node.js & Express         ████████████████░░░ 80%
+Machine Learning         ██████░░░░ 60%
 
-React.js                  ███████████████░░░░ 75%
-
-Machine Learning          █████████████░░░░░░ 65%
-
-Generative AI             ████████████░░░░░░░ 60%
-
-System Design             ██████████░░░░░░░░░ 50%
+UI / UX                  ███████░░░ 70%
 ```
 
 ---
 
-# 🚀 Current Learning
+# 🎯 Goals 2026
+
+- 🚀 Become a Software Engineer
+
+- 🌐 Build AI Powered Applications
+
+- 📚 Master MERN Stack
+
+- 💻 Solve 500+ DSA Problems
+
+- ⭐ Contribute to Open Source
+
+---
+# 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System_Design-FF5722?style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Iyyappan-S&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 💡 Favorite Quote
+# 💡 Developer Quote
 
 <div align="center">
-
-> **"Success is built one commit, one bug fix, and one lesson at a time."**
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Iyyappan-S/Iyyappan-S/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
-# 🌐 Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/Iyyappan-S">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Iyyappan-S/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/iyyappan--s/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vsbiyyappan2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://iyyappan-s-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📬 Let's Connect
-
-<div align="center">
-
-💼 Looking for Internship Opportunities
-
-🤝 Open Source Collaborations
-
-🚀 Full Stack Development
-
-🤖 Artificial Intelligence Projects
-
-☕ Java Development
-
-📧 **Email**
-
-**vsbiyyappan2005@gmail.com**
-
-</div>
-
-
-
-# 📈 My Development Journey
 
 ```text
-Started Programming       ████████████████████████ 100%
-
-Web Development           █████████████████████░░ 90%
-
-Backend Development       ████████████████████░░░ 85%
-
-Java Programming          ████████████████████░░░ 85%
-
-Database Management       ██████████████████░░░░░ 80%
-
-Artificial Intelligence   ███████████████░░░░░░░░ 70%
-
-Machine Learning          █████████████░░░░░░░░░░ 65%
-
-System Design             ███████████░░░░░░░░░░░░ 55%
+"Success is built one commit, one bug fix, and one lesson at a time."
 ```
 
----
+### ⭐ Thanks for visiting my GitHub Profile ⭐
 
-
-
----
-
-# 💭 Favorite Quote
-
-<div align="center">
-
-> **"Code with passion, learn with curiosity, and build solutions that make a difference."**
-
-</div>
-
----
-
-# 👀 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Iyyappan-S&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
-
-# ⚡ Profile Summary
-
-<div align="center">
-
-| 💻 Projects | 🤖 AI | 🌐 Full Stack | ☕ Java | 📚 Learning |
-|:----------:|:----:|:-------------:|:------:|:-----------:|
-| 10+ | ✔ | ✔ | ✔ | Everyday |
-
-</div>
-
----
-
-<div align="center">
-
-# ⭐ Thank You for Visiting My Profile ⭐
-
-### 🚀 Keep Learning • Keep Building • Keep Growing 🚀
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff&animation=twinkling&color=0:00F5FF,30:7B2FF7,70:FF0080,100:FF9800"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,50:7B2FF7,100:FF0080&section=footer"/>
 
 </div>
