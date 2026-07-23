@@ -34,7 +34,11 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -99,7 +103,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </table>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -141,7 +149,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -149,7 +161,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 💼 Internship Experience
 
@@ -212,7 +228,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </table>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 🚀 What I Love Building
 
@@ -224,7 +244,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 💡 Core Skills
 
@@ -242,7 +266,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 📚 Data Structures        ███████████████░░░░ 75%
 ```
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -382,7 +410,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </table>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 ## ⭐ Project Highlights
 
@@ -394,11 +426,55 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
+
+# 🧩 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Iyyappan-S/">
+
+<img src="https://leetcard.jacoblin.cool/Iyyappan-S?theme=dark&font=Fira%20Code&ext=contest"/>
+
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+### 💻 Problem Solving Progress
+
+<img src="https://leetcode.card.workers.dev/Iyyappan-S?theme=dark&font=baloo&extension=null"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+### 🚀 My Coding Journey
+
+> *"Consistency beats intensity. Every solved problem is one step closer to becoming a better Software Engineer."*
 
 </div>
 
@@ -416,7 +492,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -432,7 +512,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -440,27 +524,6 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
-# 📊 GitHub Profile Summary
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iyyappan-S&theme=tokyonight"/>
-
-<br><br>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iyyappan-S&theme=tokyonight"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iyyappan-S&theme=tokyonight"/>
-
-<br><br>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iyyappan-S&theme=tokyonight"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iyyappan-S&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
 
 # 📌 GitHub Snapshot
 
@@ -472,7 +535,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -492,7 +559,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -544,7 +615,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </table>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -590,7 +665,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 ███████████████░░░░░░ 75%
 ```
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -640,7 +719,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </table>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 📅 Development Roadmap
 
@@ -658,7 +741,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 █████████░░░ Placement Preparation
 ```
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -674,7 +761,11 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -702,7 +793,11 @@ Improve 📈
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 💻 Daily Coding Routine
 
@@ -726,7 +821,11 @@ Improve 📈
 └── 🎯 Plan Tomorrow's Goals
 ```
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -744,7 +843,11 @@ Improve 📈
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 🚀 Why Hire Me?
 
@@ -782,7 +885,11 @@ Improve 📈
 
 </table>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 📈 Learning Journey
 
@@ -801,7 +908,11 @@ Cloud Computing    ████████████░░░░░░░░ 
 System Design      ██████████░░░░░░░░░░ 50%
 ```
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -811,7 +922,11 @@ System Design      ██████████░░░░░░░░░░ 
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
@@ -819,7 +934,11 @@ System Design      ██████████░░░░░░░░░░ 
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 🤝 Connect With Me
 
@@ -847,7 +966,11 @@ System Design      ██████████░░░░░░░░░░ 
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 📬 Contact Information
 
@@ -859,7 +982,11 @@ System Design      ██████████░░░░░░░░░░ 
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 💖 Thank You for Visiting
 
@@ -873,7 +1000,11 @@ System Design      ██████████░░░░░░░░░░ 
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 # 🚀 Support My Work
 
@@ -889,7 +1020,11 @@ System Design      ██████████░░░░░░░░░░ 
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 <div align="center">
 
