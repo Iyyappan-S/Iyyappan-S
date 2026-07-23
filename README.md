@@ -2,17 +2,17 @@
 
 <img src="./assets/banner.png" width="100%" alt="Banner"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Iyyappan+S;AI+%26+Data+Science+Student;Full+Stack+Developer;Java+Developer;Building+Real+World+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Iyyappan+S;AI+%26+Data+Science+Student;Full+Stack+Developer;Java+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Iyyappan-S&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Iyyappan-S&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/Iyyappan-S?style=for-the-badge&logo=github&color=00C853"/>
+<img src="https://img.shields.io/github/followers/Iyyappan-S?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/Iyyappan-S?style=for-the-badge&logo=github&color=FFD600"/>
+<img src="https://img.shields.io/github/stars/Iyyappan-S?style=for-the-badge"/>
 
 <br><br>
 
@@ -25,11 +25,11 @@
 </a>
 
 <a href="https://github.com/Iyyappan-S">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://leetcode.com/u/Iyyappan-S/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </div>
@@ -38,25 +38,33 @@
 # 🌈 About Me
 
 <table>
+
 <tr>
 
 <td width="60%">
 
-## 👨‍💻 Hello!
+## 👋 Hello!
 
-I'm **Iyyappan S**, a Final Year **B.Tech Artificial Intelligence & Data Science** student passionate about building intelligent software and scalable web applications.
+I'm **Iyyappan S**
 
-### 🚀 What I'm Doing
+🎓 Final Year AI & Data Science Student
 
-- 🌱 Learning MERN Stack & AI
-- 💻 Building Full Stack Projects
-- ☕ Solving Java & DSA Problems
-- 🤖 Exploring Machine Learning
-- 📚 Preparing for Software Engineering Roles
+💻 Full Stack Developer
 
-### 🎯 Career Objective
+☕ Java Developer
 
-To become a Software Engineer who creates innovative, impactful, and user-friendly applications using AI and modern web technologies.
+🤖 AI Enthusiast
+
+### 🚀 Currently
+
+- 🌱 Learning MERN Stack
+- 💻 Building Full Stack Applications
+- 📚 Solving DSA Problems
+- 🤖 Exploring Artificial Intelligence
+
+### 🎯 Goal
+
+Become a Software Engineer and build products that solve real-world problems.
 
 </td>
 
@@ -67,6 +75,7 @@ To become a Software Engineer who creates innovative, impactful, and user-friend
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -86,7 +95,7 @@ To become a Software Engineer who creates innovative, impactful, and user-friend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-### 🗄️ Database
+### 🗄 Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
@@ -97,20 +106,26 @@ To become a Software Engineer who creates innovative, impactful, and user-friend
 </div>
 
 ---
+# 💼 Internship Experience
 
-# 📊 GitHub Analytics
+## 🔵 Full Stack Developer Intern
 
-<div align="center">
+**UK InfoTech**
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=radical&hide_border=true"/>
+- Built responsive web pages
+- Worked with HTML CSS JavaScript
+- Integrated frontend with backend
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyyappan-S&theme=radical&hide_border=true"/>
+---
 
-<br><br>
+## 🟣 Backend Developer Intern
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyyappan-S&layout=compact&theme=radical&hide_border=true"/>
+**Smart Internz**
 
-</div>
+- Java Backend Development
+- SQL Database
+- REST APIs
+- Backend Logic
 
 ---
 # 🚀 Featured Projects
@@ -119,7 +134,7 @@ To become a Software Engineer who creates innovative, impactful, and user-friend
 
 <tr>
 
-<td width="33%" align="center">
+<td align="center">
 
 <img src="./assets/medschedule-pro.png"/>
 
@@ -127,35 +142,29 @@ To become a Software Engineer who creates innovative, impactful, and user-friend
 
 Doctor Appointment Booking System
 
-**Tech**
-
 HTML • CSS • JavaScript • Node.js • MongoDB
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
 <img src="./assets/sle-encryption.jpg"/>
 
 ### 🔐 SLE Trifolder Encryption
 
-Secure Multi-layer File Encryption System
+Secure File Encryption
 
-**Tech**
-
-Python • Encryption • Security
+Python
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
 <img src="./assets/portfolio.png"/>
 
 ### 🌐 Portfolio Website
 
-Responsive Personal Portfolio
-
-**Tech**
+Responsive Portfolio
 
 HTML • CSS • JavaScript
 
@@ -166,85 +175,146 @@ HTML • CSS • JavaScript
 </table>
 
 ---
-# 📈 Contribution Graph
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iyyappan-S&theme=react-dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyyappan-S&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyyappan-S&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+# 📈 Contribution Graph
 
-# 🏆 Achievements
+<div align="center">
 
-🥇 Tech Architecture Winner
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iyyappan-S&theme=tokyo-night&hide_border=true"/>
 
-🥇 Quiz Competition Winner
-
-🥇 Paper Presentation Winner
-
-🎤 Event Coordinator — Talkathon 2025
+</div>
 
 ---
+# 🏆 Achievements & Certifications
 
-# 📜 Certifications
+<table>
 
-✅ HTML & CSS
+<tr>
 
-✅ UI/UX Designing
+<td width="50%">
 
-✅ Java DSA
+## 🏆 Achievements
+
+🥇 1st Prize – Tech Architecture
+
+🥇 1st Prize – Quiz Competition
+
+🥇 1st Prize – Paper Presentation
+
+🎤 Event Coordinator – Talkathon 2025
+
+</td>
+
+<td width="50%">
+
+## 📜 Certifications
+
+✅ HTML & CSS – GUVI
+
+✅ UI & UX Designing – Infosys Springboard
+
+✅ Introduction to DSA in Java – Infosys Springboard
+
+</td>
+
+</tr>
+
+</table>
 
 ---
-# 🔥 Current Focus
+# 🎯 Current Focus
 
 ```text
-Full Stack Development   █████████░ 90%
+💻 Full Stack Development
 
-Java Programming         ████████░░ 80%
+█████████░ 90%
 
-Backend Development      ████████░░ 80%
+☕ Java Programming
 
-Machine Learning         ██████░░░░ 60%
+████████░░ 80%
 
-UI / UX                  ███████░░░ 70%
+⚙ Backend Development
+
+████████░░ 80%
+
+🤖 Machine Learning
+
+██████░░░░ 60%
+
+🎨 UI / UX
+
+███████░░░ 70%
 ```
 
 ---
 
-# 🎯 Goals 2026
+# 🚀 2026 Goals
 
-- 🚀 Become a Software Engineer
+- 🌟 Become a Software Engineer
 
-- 🌐 Build AI Powered Applications
+- 💻 Master MERN Stack
 
-- 📚 Master MERN Stack
+- 🤖 Build AI-powered Applications
 
-- 💻 Solve 500+ DSA Problems
+- 📚 Improve DSA & Problem Solving
 
-- ⭐ Contribute to Open Source
+- 🌍 Contribute to Open Source
 
 ---
 # 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Iyyappan-S&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Iyyappan-S&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
-
-# 💡 Developer Quote
-
 <div align="center">
 
+## 💡 Developer Philosophy
+
 ```text
-"Success is built one commit, one bug fix, and one lesson at a time."
+Think → Design → Develop → Test → Deploy → Improve
 ```
 
-### ⭐ Thanks for visiting my GitHub Profile ⭐
+### 🌟 Favorite Quote
+
+> *"Success is built one commit, one bug fix, and one lesson at a time."*
+
+### 🤝 Let's Connect
+
+<a href="mailto:vsbiyyappan2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/iyyappan--s/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Iyyappan-S">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Iyyappan-S/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,50:7B2FF7,100:FF0080&section=footer"/>
 
