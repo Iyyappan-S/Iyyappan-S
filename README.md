@@ -172,7 +172,7 @@ alt="SLE Trifolder Encryption"/>
 
 ## 🔐 SLE Trifolder Encryption
 
-<img src="./assets/sle-encryption.jpg" width="100%" alt="SLE Encryption"/>
+
 
 ### 📌 Overview
 
