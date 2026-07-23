@@ -134,14 +134,15 @@ Become a Software Engineer and build products that solve real-world problems.
 
 <tr>
 
-<td align="center">
-<img src="./assets/medschedule-pro.png"
-width="850"
-alt="MedSchedule Pro"/>
+# 🚀 Featured Projects
+
+---
 
 ## 🏥 MedSchedule Pro
 
-
+<p align="center">
+<img src="./assets/medschedule-pro.png" width="90%" alt="MedSchedule Pro"/>
+</p>
 
 ### 📌 Overview
 
@@ -160,19 +161,13 @@ A full-stack healthcare web application that enables users to discover doctors, 
 
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-
 ---
-
-</td>
-
-<td align="center">
-<img src="./assets/sle-encryption.png"
-width="850"
-alt="SLE Trifolder Encryption"/>
 
 ## 🔐 SLE Trifolder Encryption
 
-
+<p align="center">
+<img src="./assets/sle-encryption.jpg" width="90%" alt="SLE Trifolder Encryption"/>
+</p>
 
 ### 📌 Overview
 
@@ -189,21 +184,13 @@ A secure file encryption and decryption application that protects sensitive data
 
 `Python`
 
-
-
-
 ---
-
-
-</td>
-
-<td align="center">
-
-<img src="./assets/portfolio.png"/>
 
 ## 🌐 Portfolio Website
 
-<img src="./assets/portfolio.png" width="100%" alt="Portfolio"/>
+<p align="center">
+<img src="./assets/portfolio.png" width="90%" alt="Portfolio"/>
+</p>
 
 ### 📌 Overview
 
@@ -221,17 +208,7 @@ A responsive portfolio website showcasing my projects, technical skills, achieve
 
 `HTML` `CSS` `JavaScript`
 
----
-
-
-</td>
-
-</tr>
-
-</table>
-
----
-# 📊 GitHub Analytics
+---# 📊 GitHub Analytics
 
 <div align="center">
 
