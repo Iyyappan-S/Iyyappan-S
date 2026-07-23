@@ -16,6 +16,16 @@
 
 <br><br>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Iyyappan-S&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Iyyappan-S?style=for-the-badge&color=00C853"/>
+
+<img src="https://img.shields.io/github/stars/Iyyappan-S?style=for-the-badge&color=FFC107"/>
+
+</div>
+
 <a href="mailto:vsbiyyappan2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -34,7 +44,18 @@
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/240885145-0bcf0d3b-5d8e-4d5f-a13e-f50d12d5c9b8.gif" width="650"/>
+
+</div>
+
 # 🌈 About Me
 
 <table>
@@ -78,7 +99,11 @@ Become a Software Engineer and build products that solve real-world problems.
 
 </table>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 # 🧰 Tech Stack
 
 <div align="center">
@@ -105,7 +130,11 @@ Become a Software Engineer and build products that solve real-world problems.
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 # 💼 Internship Experience
 
 ## 🔵 Full Stack Developer Intern
@@ -116,7 +145,11 @@ Become a Software Engineer and build products that solve real-world problems.
 - Worked with HTML CSS JavaScript
 - Integrated frontend with backend
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 ## 🟣 Backend Developer Intern
 
@@ -206,7 +239,11 @@ Become a Software Engineer and build products that solve real-world problems.
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 # 📈 Contribution Graph
 
 <div align="center">
@@ -215,7 +252,11 @@ Become a Software Engineer and build products that solve real-world problems.
 
 </div>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 # 🏆 Achievements & Certifications
 
 <table>
@@ -252,7 +293,11 @@ Become a Software Engineer and build products that solve real-world problems.
 
 </table>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 # 🎯 Current Focus
 
 ```text
@@ -277,8 +322,11 @@ Become a Software Engineer and build products that solve real-world problems.
 ███████░░░ 70%
 ```
 
----
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 # 🚀 2026 Goals
 
 - 🌟 Become a Software Engineer
@@ -291,7 +339,11 @@ Become a Software Engineer and build products that solve real-world problems.
 
 - 🌍 Contribute to Open Source
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 # 🏅 GitHub Trophies
 
 <div align="center">
@@ -300,8 +352,38 @@ Become a Software Engineer and build products that solve real-world problems.
 
 </div>
 
----
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
+<div align="center">
+
+# 📊 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iyyappan-S&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iyyappan-S&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iyyappan-S&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iyyappan-S&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iyyappan-S&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+
+</div>
 
 ## 💡 Developer Philosophy
 
@@ -336,3 +418,18 @@ Think → Design → Develop → Test → Deploy → Improve
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,50:7B2FF7,100:FF0080&section=footer"/>
 
 </div>
+
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iyyappan-S/Iyyappan-S/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iyyappan-S/Iyyappan-S/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Iyyappan-S/Iyyappan-S/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
