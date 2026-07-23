@@ -141,7 +141,7 @@ alt="MedSchedule Pro"/>
 
 ## 🏥 MedSchedule Pro
 
-<img src="./assets/medschedule-pro.png" width="100%" alt="MedSchedule Pro"/>
+
 
 ### 📌 Overview
 
