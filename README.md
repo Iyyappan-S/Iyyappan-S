@@ -713,15 +713,6 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
-# 📬 Contact Information
-
-<div align="center">
-
-| 📧 Email | 💼 LinkedIn | 💻 GitHub | 🧩 LeetCode |
-|:---------:|:-----------:|:---------:|:-----------:|
-| **vsbiyyappan2005@gmail.com** | **linkedin.com/in/iyyappan--s** | **github.com/Iyyappan-S** | **leetcode.com/u/Iyyappan-S** |
-
-</div>
 
 <div align="center">
 
