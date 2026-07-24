@@ -52,50 +52,45 @@
 
 <tr>
 
-<td width="60%">
+<td width="60%" valign="top">
 
 ## 👋 Hello, I'm Iyyappan
 
-🎓 **Final Year B.Tech Artificial Intelligence & Data Science Student**
+🎓 **Final Year B.Tech – Artificial Intelligence & Data Science**
 
-💻 Passionate **Full Stack Developer**
+💻 **Full Stack Developer** | ☕ **Java Developer** | 🤖 **AI Enthusiast**
 
-☕ Enthusiastic **Java Programmer**
+I enjoy building modern web applications, developing scalable backend systems, and solving real-world problems through technology.
 
-🤖 Exploring the world of **Artificial Intelligence**
+### 🚀 Currently Learning
 
-🚀 I enjoy designing modern user interfaces, developing scalable backend systems, and building software that solves real-world problems.
-
-### 🌱 Currently Learning
-
-- ⚛️ MERN Stack Development
-- ☕ Advanced Java Programming
-- 📚 Data Structures & Algorithms
+- ⚛️ MERN Stack
+- ☕ Advanced Java & DSA
 - 🤖 AI & Machine Learning
 - ☁️ Cloud Computing
 - 🏗️ System Design
 
-### 🎯 Career Objective
+### 🎯 Career Goal
 
-To become a skilled **Software Engineer** by continuously learning new technologies, contributing to impactful projects, and building innovative software solutions.
+Become a **Software Engineer** and build innovative software that creates real-world impact.
 
-### ⚡ Quick Facts
+### ⚡ Highlights
 
-- 💼 Full Stack Developer
-- 🧠 AI Enthusiast
-- 🌱 Lifelong Learner
-- 💡 Problem Solver
+- 💼 Full Stack Development
+- ☕ Java Programming
+- 🤖 AI & Data Science
 - 🚀 Open Source Explorer
+- 📚 Continuous Learner
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Iyyappan-S&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iyyappan-S&theme=tokyonight&hide_border=true"/>
+### 🚀 Code • Learn • Build
 
 </td>
 
@@ -103,18 +98,13 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </table>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
+---
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 
 </div>
-
 # 🛠 Tech Toolbox
 
 <div align="center">
@@ -454,19 +444,7 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 </div>
 
-<div align="center">
 
-### 💻 Problem Solving Progress
-
-<img src="https://leetcode.card.workers.dev/Iyyappan-S?theme=dark&font=baloo&extension=null"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
 
 <div align="center">
 
@@ -639,128 +617,68 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 # 🚀 Why Hire Me?
 
-<table>
+<div align="center">
 
-<tr>
-
-<td width="50%">
-
-### 💻 Technical Strengths
-
-- ✅ Full Stack Development
-- ✅ Java Programming
-- ✅ REST API Development
-- ✅ MongoDB & SQL
-- ✅ Responsive UI Development
-- ✅ AI & ML Fundamentals
-
-</td>
-
-<td width="50%">
-## 🌟 Motto
-
-### *"Learn • Build • Improve • Repeat"*
+| 💼 Strengths | 🚀 Value |
+|:------------:|:--------:|
+| ☕ Java | Strong OOP & DSA Foundation |
+| 🌐 Full Stack | Build End-to-End Web Applications |
+| 🤖 AI | AI & Data Science Knowledge |
+| ⚡ APIs | REST API Development |
+| 📱 UI | Responsive & Modern Interfaces |
+| 📚 Learning | Quick Learner & Adaptable |
 
 </div>
 
+---
+
+# 🌟 Motto
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+> **"Learn • Build • Improve • Repeat"**
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/240885145-0bcf0d3b-5d8e-4d5f-a13e-f50d12d5c9b8.gif" width="650"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
-
-# 🤝 Connect With Me
+# 💖 Thanks for Visiting
 
 <div align="center">
 
-### 💬 I'm always open to collaborating on exciting projects, discussing technology, or exploring new opportunities.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!"/>
 
 <br>
 
-<a href="mailto:vsbiyyappan2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/iyyappan--s/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Iyyappan-S">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Iyyappan-S/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+⭐ **If you like my work, don't forget to ⭐ my repositories and follow my GitHub profile.**
 
 </div>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
-
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
-
-# 💖 Thank You for Visiting
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Thank+You+for+Visiting!;Let's+Build+Something+Amazing+Together!;Happy+Coding!+🚀" />
-
-<br><br>
-
-⭐ **If you like my work, consider giving a star to my repositories and following my GitHub profile!**
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
-
-# 🚀 Support My Work
+---
 
 <div align="center">
 
 <a href="https://github.com/Iyyappan-S?tab=followers">
-<img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://github.com/Iyyappan-S">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-7B2FF7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View-Repositories-7B2FF7?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
+---
 
 <div align="center">
 
-## ⭐ "Code • Learn • Build • Repeat"
+## ⭐ Code • Learn • Build • Repeat ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F5FF,50:7B2FF7,100:FF0080&section=footer"/>
 
