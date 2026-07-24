@@ -294,8 +294,7 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 <td width="50%" align="center">
 
-<a href="YOUR_MEDSCHEDULE_REPOSITORY_LINK">
-
+<a href="https://github.com/Iyyappan-S/MedSchedule-Pro">
 <img src="./assets/medschedule-pro.png" width="100%" alt="MedSchedule Pro"/>
 
 </a>
@@ -315,8 +314,7 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 <br><br>
-
-<a href="YOUR_MEDSCHEDULE_REPOSITORY_LINK">
+<a href="https://github.com/Iyyappan-S/MedSchedule-Pro">>
 
 <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -344,7 +342,7 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 <br><br>
 
-<a href="YOUR_SLE_REPOSITORY_LINK">
+<a href="https://github.com/jaya-byte12/Pyshield-USB-Data-Leak-Protection-PUDLP-">
 
 <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -358,7 +356,7 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 <td width="50%" align="center">
 
-<a href="YOUR_PORTFOLIO_REPOSITORY_LINK">
+<a href="https://github.com/Iyyappan-S/Portfolio">
 
 <img src="./assets/portfolio.png" width="100%" alt="Portfolio Website"/>
 
@@ -376,7 +374,7 @@ To become a skilled **Software Engineer** by continuously learning new technolog
 
 <br><br>
 
-<a href="YOUR_PORTFOLIO_REPOSITORY_LINK">
+<a href="https://github.com/Iyyappan-S/Portfolio">
 
 <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
