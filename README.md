@@ -105,6 +105,7 @@ Become a **Software Engineer** and build innovative software that creates real-w
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 
 </div>
+
 # 🛠 Tech Toolbox
 
 <div align="center">
