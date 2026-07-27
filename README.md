@@ -4,7 +4,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Iyyappan+S;AI+%26+Data+Science+Student;Full+Stack+Developer;Java+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
 
 <br><br>
 
@@ -465,19 +464,16 @@ Become a **Software Engineer** and build innovative software that creates real-w
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iyyappan-S&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 
 </div>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 
 </div>
 
@@ -653,7 +649,6 @@ Become a **Software Engineer** and build innovative software that creates real-w
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀;Let's+Build+Something+Amazing+Together!"/>
 
 <br>
 
