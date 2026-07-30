@@ -372,27 +372,44 @@ Become a **Software Engineer** and build innovative software that creates real-w
 
 </td>
 
-<td width="50%" align="center">
 
-<img src="https://placehold.co/800x450/111827/38bdf8?text=FinWise+AI" width="100%" alt="FinWise AI"/>
+
+<td width="50%" valign="top">
 
 ### 💰 FinWise AI
 
 **AI-Powered Personal Finance Tracker**
 
+A modern full-stack personal finance management application that helps users track income, expenses, budgets, savings goals, analytics, reports, notifications, and AI-powered financial insights.
+
+#### 🚀 Features
+- 💵 Income & Expense Tracking
+- 📊 Interactive Analytics Dashboard
+- 🎯 Budget & Savings Goals
+- 🔔 Notifications
+- 📈 Reports
+- 🤖 AI Financial Insights
+
+#### 🛠 Technologies
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Coming_Soon-FF9800?style=for-the-badge"/>
+<a href="https://github.com/Iyyappan-S/finwise-ai">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://finwise-ai-r2dn.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </td>
+
+
 
 </tr>
 
