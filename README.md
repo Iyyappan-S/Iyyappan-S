@@ -374,23 +374,19 @@ Become a **Software Engineer** and build innovative software that creates real-w
 
 
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
+
+<a href="https://github.com/Iyyappan-S/finwise-ai">
+
+<img src="./assets/finwise-ai.png"
+     width="100%"
+     alt="FinWise AI"/>
+
+</a>
 
 ### 💰 FinWise AI
 
 **AI-Powered Personal Finance Tracker**
-
-A modern full-stack personal finance management application that helps users track income, expenses, budgets, savings goals, analytics, reports, notifications, and AI-powered financial insights.
-
-#### 🚀 Features
-- 💵 Income & Expense Tracking
-- 📊 Interactive Analytics Dashboard
-- 🎯 Budget & Savings Goals
-- 🔔 Notifications
-- 📈 Reports
-- 🤖 AI Financial Insights
-
-#### 🛠 Technologies
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -408,7 +404,6 @@ A modern full-stack personal finance management application that helps users tra
 </a>
 
 </td>
-
 
 
 </tr>
