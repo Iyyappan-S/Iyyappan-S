@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/github/followers/Iyyappan-S?style=for-the-badge&color=00C853&labelColor=1a1b27"/>
 <img src="https://img.shields.io/github/stars/Iyyappan-S?style=for-the-badge&color=FFC107&labelColor=1a1b27"/>
 <br><br>
-
 <a href="mailto:vsbiyyappan2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
