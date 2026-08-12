@@ -4,7 +4,6 @@
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=Iyyappan-S&label=PROFILE+VIEWS&style=for-the-badge&color=7B2FF7"/>
 <img src="https://img.shields.io/github/followers/Iyyappan-S?style=for-the-badge&color=00C853&labelColor=1a1b27"/>
-
 <img src="https://img.shields.io/github/stars/Iyyappan-S?style=for-the-badge&color=FFC107&labelColor=1a1b27"/>
 
 <br><br>
