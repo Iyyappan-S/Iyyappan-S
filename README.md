@@ -208,21 +208,6 @@ Become a **Software Engineer** and build innovative software that creates real-w
 
 </div>
 
-# 🚀 What I Love Building
-
-<div align="center">
-
-| 🌐 Web Apps | 🤖 AI Projects | 📱 Responsive UI | ⚙️ Backend APIs |
-|:----------:|:--------------:|:----------------:|:---------------:|
-| Modern Websites | Machine Learning | Mobile Friendly | REST Services |
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
 
 # 💡 Core Skills
 
@@ -235,7 +220,7 @@ Become a **Software Engineer** and build innovative software that creates real-w
 
 🗄️ Database Management    ████████████████░░░ 80%
 
-🤖 Artificial Intelligence ██████████████░░░░ 70%
+🤖 Artificial Intelligence ██████████████░░░░ 75%
 
 📚 Data Structures        ███████████████░░░░ 75%
 ```
