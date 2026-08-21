@@ -391,7 +391,7 @@ Become a **Software Engineer** and build innovative software that creates real-w
 
 | 🚀 Projects | 💻 Technologies | 🎯 Focus |
 |:-----------:|:--------------:|:--------:|
-| **3+ Completed Projects** | **Java • MERN • Python** | **Full Stack Development & AI** |
+| **3+ Completed Projects** | **Java • MERN** | **Full Stack Development & AI** |
 
 </div>
 
