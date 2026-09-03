@@ -141,66 +141,6 @@ Become a **Software Engineer** and build innovative software that creates real-w
 
 </div>
 
-# 💼 Internship Experience
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔵 Full Stack Developer Intern
-
-### 🏢 UK InfoTech
-
-📍 Pudukkottai, Tamil Nadu
-
-#### 🚀 Responsibilities
-
-- 💻 Developed responsive web applications
-- 🎨 Designed modern user interfaces
-- 🔗 Connected frontend with backend APIs
-- ⚡ Improved website performance
-- 📱 Built mobile-friendly layouts
-- 🧪 Tested and debugged web applications
-
-#### 🛠 Technologies Used
-
-`HTML`
-`CSS`
-`JavaScript`
-`Node.js`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🟣 Backend Developer Intern
-
-### 🏢 Smart Internz
-
-📍 Virtual Internship
-
-#### 🚀 Responsibilities
-
-- ☕ Developed backend modules using Java
-- 🗄️ Worked with SQL databases
-- 🔗 Built RESTful APIs
-- ⚙️ Implemented server-side logic
-- 🐞 Debugged backend applications
-- 📊 Optimized database operations
-
-#### 🛠 Technologies Used
-
-`Java`
-`SQL`
-`REST API`
-
-</td>
-
-</tr>
-
-</table>
 
 <div align="center">
 
