@@ -398,26 +398,6 @@ Become a **Software Engineer** and build innovative software that creates real-w
 
 </div>
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iyyappan-S&theme=tokyo-night&hide_border=true&radius=15"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-
-</div>
-
 
 # 📌 GitHub Snapshot
 
